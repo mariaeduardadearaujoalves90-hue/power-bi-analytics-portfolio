@@ -2,7 +2,7 @@
 Portfolio with Power BI dashboards, SQL analysis and business insights
 ## Sobre o Projeto
 
-Projeto de portfólio focado em análise de dados financeiros e operacionais, utilizando SQL Server, Python e Power BI.
+Projeto de portfólio focado em análise de dados, utilizando SQL Server, Python e Power BI.
 
 ## Tecnologias
 - Python
